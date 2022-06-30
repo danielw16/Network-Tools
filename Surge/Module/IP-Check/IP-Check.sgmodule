@@ -7,4 +7,4 @@ ipcheck = script-name=ipcheck, title="节点详情", content="请刷新", style=
 
 [Script]
 #节点IP信息
-ipcheck = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/IP-Check/IP-Check.js
+ipcheck = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/danielw16/Network-Tools/main/Surge/Module/IP-Check/IP-Check.js
