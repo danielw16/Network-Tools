@@ -24,7 +24,7 @@ if ($trigger == "button") await httpAPI("/v1/profiles/reload");
       title:"Surge Pro®",
       content:
 	`启动时长: ${startTime}\n` +
-        `订阅到期: 2022-06-03`,
+        `订阅到期: 2023-06-21`,
 		icon: params.icon,
 		"icon-color":params.color
     });
