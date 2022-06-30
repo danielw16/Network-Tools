@@ -5,4 +5,4 @@
 Timecard = script-name=Timecard,update-interval=3600
 
 [Script]
-Timecard = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Timecard/Timecard.js
+Timecard = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/danielw16/Network-Tools/main/Surge/Module/Timecard/Timecard.js
