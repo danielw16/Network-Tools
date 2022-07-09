@@ -1,17 +1,16 @@
 # NAME: Australia.list
 DOMAIN-KEYWORD,streamotion.com.au
+DOMAIN-KEYWORD,abc.net.au
 DOMAIN-KEYWORD,7plus
-DOMAIN-KEYWORD,www.stan.com.au
+DOMAIN-KEYWORD,stan.com.au
 DOMAIN-KEYWORD,godaddy
 DOMAIN-KEYWORD,youboranqs
 DOMAIN-KEYWORD,mobile-collector.newrelic.com
 DOMAIN-KEYWORD,akamaized.net
 DOMAIN-KEYWORD,cloudfront.net
 DOMAIN-KEYWORD,a-fds.youborafds01.com
-DOMAIN,api.stan.com.au
-DOMAIN,myaccount.myvodafone.com.au
-DOMAIN,www.vodafone.com.au
-DOMAIN,vodafone
+DOMAIN-KEYWORD,myvodafone.com.au
+DOMAIN-KEYWORD,vodafone.com.au
 DOMAIN-SUFFIX,9cdn.net
 DOMAIN-SUFFIX,9nation.com.au
 DOMAIN-SUFFIX,9news.com.au
@@ -27,10 +26,5 @@ DOMAIN-SUFFIX,ninemsn.com.au
 DOMAIN-SUFFIX,static9.net.au
 DOMAIN-SUFFIX,yourtv.com.au
 DOMAIN-SUFFIX,collect.tealiumiq.com
-DOMAIN-SUFFIX,collector.abc.net.au
 DOMAIN-SUFFIX,secure-dcr.imrworldwide.com
-DOMAIN-SUFFIX,api.iview.abc.net.au
-DOMAIN-SUFFIX,recommendations.abc.net.au
-DOMAIN-SUFFIX,socialize.au1.gigya.com
-DOMAIN-SUFFIX,api.seesaw.abc.net.au
-DOMAIN-SUFFIX,accounts.au1.gigya.com
+DOMAIN-KEYWORD,au1.gigya.com
