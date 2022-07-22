@@ -2,8 +2,8 @@
  * 由@LucaLin233编写
  * 原脚本地址：https://raw.githubusercontent.com/LucaLin233/Luca_Conf/main/Surge/JS/stream-all.js
  * 由@Rabbit-Spec修改
- * 更新日期：2022.06.26
- * 版本：2.2
+ * 更新日期：2022.07.22
+ * 版本：2.3
  */
 
 const REQUEST_HEADERS = {
@@ -302,7 +302,7 @@ panel_result['content'] = content
               reject('Error')
               return
             }
-            if (response.status !== 200 || data.indexOf('unavailable') !== -1) {
+            if (response.status !== 200 || data.indexOf('Sorry, Disney+ is not available in your region.') !== -1) {
               reject('Not Available')
               return
             }
