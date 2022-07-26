@@ -1,21 +1,21 @@
 # NAME: Australia.list
-HOST-KEYWORD, streamotion.com.au
-HOST-KEYWORD, abc.net.au
-HOST-KEYWORD, 7plus
-HOST-KEYWORD, stan.com.au
-HOST-KEYWORD, youboranqs
-HOST-KEYWORD, mobile-collector.newrelic.com
-HOST-KEYWORD, akamaized.net
-HOST-KEYWORD, a-fds.youborafds01.com
-HOST-KEYWORD, myvodafone.com.au
-HOST-KEYWORD, vodafone.com.au
-HOST-KEYWORD, 9cdn.net
-HOST-KEYWORD, 9nation.com.au
-HOST-KEYWORD, 9news.com.au
-HOST-KEYWORD, 9now.com.au
-HOST-KEYWORD, freeviewplus.net.au
-HOST-KEYWORD, mi9.com.au
-HOST-KEYWORD, mi9cdn.com
+HOST-KEYWORD, streamotion.com.au, Australia
+HOST-KEYWORD, abc.net.au, Australia
+HOST-KEYWORD, 7plus, Australia
+HOST-KEYWORD, stan.com.au, Australia
+HOST-KEYWORD, youboranqs, Australia
+HOST-KEYWORD, mobile-collector.newrelic.com, Australia
+HOST-KEYWORD, akamaized.net, Australia
+HOST-KEYWORD, a-fds.youborafds01.com, Australia
+HOST-KEYWORD, myvodafone.com.au, Australia
+HOST-KEYWORD, vodafone.com.au, Australia
+HOST-KEYWORD, 9cdn.net,🇦🇺 Australia
+HOST-KEYWORD, 9nation.com.au,🇦🇺 Australia
+HOST-KEYWORD, 9news.com.au,🇦🇺 Australia
+HOST-KEYWORD, 9now.com.au,🇦🇺 Australia
+HOST-KEYWORD, freeviewplus.net.au,🇦🇺 Australia
+HOST-KEYWORD, mi9.com.au,🇦🇺 Australia
+HOST-KEYWORD, mi9cdn.com,🇦🇺 Australia
 HOST-KEYWORD, nine.com.au
 HOST-KEYWORD, nineentertainment.com.au
 HOST-KEYWORD, nineentertainmentco.com.au
