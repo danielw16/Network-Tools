@@ -1,0 +1,6 @@
+# NAME: IBKR.list
+
+HOST-KEYWORD, ibkr.com, IBKR
+HOST-KEYWORD, interactivebrokers.com, IBKR
+HOST-KEYWORD, ibllc.com, IBKR
+HOST-KEYWORD, refinitiv.com, IBKR
