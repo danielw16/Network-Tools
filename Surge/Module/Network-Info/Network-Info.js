@@ -2,8 +2,8 @@
  * Surge 网络详情
  * 由@Nebulosa-Cat编写
  * 由@Rabbit-Spec翻译
- * 更新日期：2022.06.17
- * 版本：3.0
+ * 更新日期：2022.08.14
+ * 版本：3.1
  */
 
 /**
@@ -79,6 +79,11 @@ function randomString(e = 6) {
 }
 
 function getFlagEmoji(countryCode) {
+
+if (countryCode.toUpperCase() == 'TW') {
+    countryCode = 'CN'
+  }
+
   const codePoints = countryCode
     .toUpperCase()
     .split('')
