@@ -2,8 +2,8 @@
  * 由@mieqq编写
  * 原脚本地址：https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js
  * 由@Rabbit-Spec修改
- * 更新日期：2022.06.29
- * 版本：1.7
+ * 更新日期：2022.08.24
+ * 版本：1.5
 */
 
 let args = getArgs();
@@ -85,7 +85,7 @@ async function getDataInfo(url) {
 
   return Object.fromEntries(
     data
-      .match(/\w+=[\d.eE+]+/g)
+      .match(/\w+=[\d.eE+-]+/g)
       .map((item) => item.split("="))
       .map(([k, v]) => [k, Number(v)])
   );
